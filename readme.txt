@@ -17,3 +17,5 @@ The apple pictures were downloaded from:
 	https://www.kaggle.com/sriramr/fruits-fresh-and-rotten-for-classification
 
 For training the CNN we relied on the tutorial found at https://www.tensorflow.org/tutorials/images/cnn
+
+To add your own input images for testing, save your apple pictuire in "./AppleStateIdentifier/data/mine", and run the program.
