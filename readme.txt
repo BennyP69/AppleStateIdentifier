@@ -1,5 +1,3 @@
-README for G28
---------------
 Our project relies mainly on sklearn and PyTorch.
 The following files are included:
 
